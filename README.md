@@ -3,9 +3,9 @@ This project is destined to teached the premices and bases on API development en
 
 # Techs Used Here :
 
-[NodeJS]
-[Express]
-[MongoDB]
+[NodeJS] - 
+[Express] - 
+[MongoDB] - 
 [AngularJS]
 
 # Launch the Project : 
